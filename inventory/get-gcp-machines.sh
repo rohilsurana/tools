@@ -1,0 +1,1 @@
+cat ~/inventory/gcp/machines/*
